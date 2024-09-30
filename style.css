@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+    .lead-banner h1 {
+        font-size: 2.5rem;
+    }
+
+    .lead-banner h2 {
+        font-size: 1.5rem;
+        line-height: 1.2;
+    }
+
+    .lead-banner p {
+        font-size: 0.9rem;
+    }
+
+    .lead-banner .btn {
+        font-size: 0.875rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .lead-banner h1 {
+        font-size: 2rem;
+    }
+
+    .lead-banner h2 {
+        font-size: 1.25rem;
+    }
+
+    .lead-banner p {
+        font-size: 0.8rem;
+    }
+}
